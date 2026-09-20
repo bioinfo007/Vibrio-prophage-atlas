@@ -1,0 +1,637 @@
+vOTU	species_count	species_list	species_count_robust	species_list_robust	phage_count	spacer_count	host_count	checkv_quality
+SAMN12057825_p1	6	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio navarrensis;Vibrio paracholerae;Vibrio vulnificus	4	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis;Vibrio paracholerae	1	502	206	Medium-quality
+SAMN02435867_p5	6	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio navarrensis;Vibrio paracholerae;Vibrio vulnificus	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	1	250	162	Medium-quality
+SAMN14752702_p2	6	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio navarrensis;Vibrio paracholerae;Vibrio vulnificus	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	1	376	202	Medium-quality
+SAMN11287979_p2	5	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis;Vibrio paracholerae;Vibrio vulnificus	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	1	511	214	High-quality
+SAMN16072611_p2	5	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis;Vibrio paracholerae;Vibrio vulnificus	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	1	473	220	High-quality
+SAMN12168583_p1	5	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis;Vibrio paracholerae;Vibrio vulnificus	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	1	456	202	Medium-quality
+SAMN40453155_p1	5	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis;Vibrio paracholerae;Vibrio vulnificus	4	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis;Vibrio vulnificus	1	70	57	High-quality
+SAMN44286666_p2	5	Vibrio cholerae;Vibrio cidicii;Vibrio fluvialis;Vibrio navarrensis;Vibrio vulnificus	5	Vibrio cholerae;Vibrio cidicii;Vibrio fluvialis;Vibrio navarrensis;Vibrio vulnificus	1	76	55	High-quality
+SAMN05356867_p2	5	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio navarrensis;Vibrio paracholerae	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	2	650	272	High-quality
+SAMN55333167_p1	5	Vibrio cholerae;Vibrio fluvialis;Vibrio furnissii;Vibrio navarrensis;Vibrio vulnificus	4	Vibrio cholerae;Vibrio fluvialis;Vibrio navarrensis;Vibrio vulnificus	1	19	15	High-quality
+SAMN02393808_p2	5	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio navarrensis;Vibrio paracholerae	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	1	633	255	Complete
+SAMN12057836_p2	5	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio navarrensis;Vibrio paracholerae	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	3	760	282	High-quality
+SAMN08741621_p1	5	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio navarrensis;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	1	566	271	High-quality
+SAMN39832058_p1	5	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio navarrensis;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	1	443	206	Medium-quality
+SAMN12057860_p1	5	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio navarrensis;Vibrio paracholerae	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	4	871	300	High-quality
+SAMN07350482_p1	5	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio navarrensis;Vibrio paracholerae	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	4	892	311	High-quality
+SAMN36689570_p3	5	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio navarrensis;Vibrio paracholerae	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	2	780	304	High-quality
+SAMN13704164_p2	5	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio navarrensis;Vibrio paracholerae	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	30	957	319	High-quality
+SAMN38476540_p3	5	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio navarrensis;Vibrio paracholerae	5	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio navarrensis;Vibrio paracholerae	49	1318	342	High-quality
+SAMN13704165_p2	5	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio navarrensis;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	1	535	224	High-quality
+SAMN13897687_p1	5	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio navarrensis;Vibrio paracholerae	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	3	600	256	High-quality
+SAMN26982640_p1	5	Vibrio cholerae;Vibrio harveyi;Vibrio navarrensis;Vibrio parahaemolyticus;Vibrio vulnificus	4	Vibrio harveyi;Vibrio navarrensis;Vibrio parahaemolyticus;Vibrio vulnificus	2	25	24	High-quality
+SAMN12648298_p4	5	Vibrio cholerae;Vibrio harveyi;Vibrio navarrensis;Vibrio parahaemolyticus;Vibrio vulnificus	3	Vibrio harveyi;Vibrio navarrensis;Vibrio parahaemolyticus	1	22	22	Medium-quality
+SAMN06013688_p2	5	Vibrio cholerae;Vibrio harveyi;Vibrio navarrensis;Vibrio parahaemolyticus;Vibrio vulnificus	4	Vibrio cholerae;Vibrio harveyi;Vibrio navarrensis;Vibrio parahaemolyticus	1	26	24	Medium-quality
+SAMN12648323_p2	5	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis;Vibrio paracholerae;Vibrio vulnificus	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	8	631	246	Medium-quality
+SAMN53475254_p2	5	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis;Vibrio paracholerae;Vibrio vulnificus	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	2	465	209	High-quality
+SAMN36689570_p5	5	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis;Vibrio paracholerae;Vibrio vulnificus	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	1	444	202	Medium-quality
+SAMN07350496_p1	5	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio navarrensis;Vibrio paracholerae	4	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis;Vibrio paracholerae	2	278	179	Medium-quality
+SAMEA115017710_p3	5	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis;Vibrio paracholerae;Vibrio vulnificus	4	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae;Vibrio vulnificus	2	344	201	Medium-quality
+SAMN12168603_p1	5	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio navarrensis;Vibrio paracholerae	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	3	932	314	Complete
+SAMN12670125_p3	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	18	732	286	High-quality
+SAMN40160521_p2	4	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	1	414	189	High-quality
+SAMN07350480_p7	4	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis;Vibrio paracholerae	4	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis;Vibrio paracholerae	5	176	116	Medium-quality
+SAMN38476522_p1	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	5	763	279	High-quality
+SAMN03104881_p1	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	1	540	251	High-quality
+SAMN17188296_p1	4	Vibrio cholerae;Vibrio harveyi;Vibrio parahaemolyticus;Vibrio vulnificus	2	Vibrio harveyi;Vibrio parahaemolyticus	1	10	6	High-quality
+SAMN36689559_p3	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	7	821	277	High-quality
+SAMN34315296_p2	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	1	443	237	High-quality
+SAMN15654241_p1	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	2	570	263	High-quality
+SAMN14944058_p4	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	1	491	242	Complete
+SAMN28495021_p1	4	Vibrio cholerae;Vibrio navarrensis;Vibrio parahaemolyticus;Vibrio vulnificus	4	Vibrio cholerae;Vibrio navarrensis;Vibrio parahaemolyticus;Vibrio vulnificus	6	25	20	High-quality
+SAMN11039182_p1	4	Vibrio cholerae;Vibrio harveyi;Vibrio navarrensis;Vibrio vulnificus	3	Vibrio cholerae;Vibrio harveyi;Vibrio navarrensis	1	7	7	High-quality
+SAMN28511831_p1	4	Vibrio cholerae;Vibrio navarrensis;Vibrio parahaemolyticus;Vibrio vulnificus	3	Vibrio cholerae;Vibrio navarrensis;Vibrio parahaemolyticus	1	18	16	High-quality
+SAMN52950332_p3	4	Vibrio cholerae;Vibrio fluvialis;Vibrio furnissii;Vibrio navarrensis	2	Vibrio cholerae;Vibrio fluvialis	1	47	47	Medium-quality
+SAMN13023390_p4	4	Vibrio cholerae;Vibrio harveyi;Vibrio paracholerae;Vibrio vulnificus	4	Vibrio cholerae;Vibrio harveyi;Vibrio paracholerae;Vibrio vulnificus	1	13	12	High-quality
+SAMN14081013_p3	4	Vibrio cholerae;Vibrio harveyi;Vibrio parahaemolyticus;Vibrio vulnificus	3	Vibrio harveyi;Vibrio parahaemolyticus;Vibrio vulnificus	2	19	12	Complete
+SAMN09386758_p1	4	Vibrio cholerae;Vibrio harveyi;Vibrio parahaemolyticus;Vibrio vulnificus	3	Vibrio harveyi;Vibrio parahaemolyticus;Vibrio vulnificus	3	17	12	Complete
+SAMN02470293_p4	4	Vibrio cholerae;Vibrio harveyi;Vibrio metoecus;Vibrio navarrensis	2	Vibrio cholerae;Vibrio harveyi	1	9	6	Medium-quality
+SAMN40453154_p1	4	Vibrio cholerae;Vibrio harveyi;Vibrio navarrensis;Vibrio paracholerae	3	Vibrio cholerae;Vibrio harveyi;Vibrio navarrensis	1	29	27	High-quality
+SAMEA115018757_p1	4	Vibrio cholerae;Vibrio fluvialis;Vibrio furnissii;Vibrio navarrensis	3	Vibrio cholerae;Vibrio fluvialis;Vibrio navarrensis	5	37	36	High-quality
+SAMN40627813_p1	4	Vibrio cholerae;Vibrio harveyi;Vibrio parahaemolyticus;Vibrio vulnificus	4	Vibrio cholerae;Vibrio harveyi;Vibrio parahaemolyticus;Vibrio vulnificus	1	24	20	High-quality
+SAMN12057861_p1	4	Vibrio cholerae;Vibrio fluvialis;Vibrio navarrensis;Vibrio paracholerae	3	Vibrio cholerae;Vibrio fluvialis;Vibrio paracholerae	1	11	9	High-quality
+SAMN52950338_p1	4	Vibrio cholerae;Vibrio cidicii;Vibrio paracholerae;Vibrio vulnificus	3	Vibrio cholerae;Vibrio paracholerae;Vibrio vulnificus	8	76	46	Medium-quality
+SAMN16268043_p1	4	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis;Vibrio paracholerae	4	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis;Vibrio paracholerae	2	121	78	High-quality
+SAMN28767231_p1	4	Vibrio cholerae;Vibrio navarrensis;Vibrio parahaemolyticus;Vibrio vulnificus	3	Vibrio cholerae;Vibrio navarrensis;Vibrio parahaemolyticus	1	21	20	High-quality
+SAMN29328593_p1	4	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	2	433	208	Medium-quality
+SAMN09386818_p2	4	Vibrio cholerae;Vibrio navarrensis;Vibrio paracholerae;Vibrio vulnificus	3	Vibrio cholerae;Vibrio paracholerae;Vibrio vulnificus	1	37	35	Complete
+SAMN10963619_p1	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	5	464	222	High-quality
+SAMN40160509_p2	4	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis;Vibrio paracholerae	3	Vibrio cholerae;Vibrio navarrensis;Vibrio paracholerae	2	212	135	Medium-quality
+SAMN40604373_p1	4	Vibrio cholerae;Vibrio harveyi;Vibrio navarrensis;Vibrio paracholerae	3	Vibrio cholerae;Vibrio harveyi;Vibrio navarrensis	1	32	32	High-quality
+SAMN13897683_p3	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	4	590	267	Medium-quality
+SAMN41254075_p5	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	1	371	226	Medium-quality
+SAMN39525491_p1	4	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	1	458	199	Medium-quality
+SAMN12168608_p3	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	2	695	265	High-quality
+SAMN37977892_p1	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	75	908	299	High-quality
+SAMN40160499_p1	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	2	516	241	Complete
+SAMN24777710_p1	4	Vibrio cholerae;Vibrio navarrensis;Vibrio paracholerae;Vibrio vulnificus	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	1	49	41	High-quality
+SAMN26741749_p4	4	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis;Vibrio vulnificus	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	1	49	45	Complete
+SAMN03483372_p2	4	Vibrio cholerae;Vibrio harveyi;Vibrio navarrensis;Vibrio paracholerae	3	Vibrio cholerae;Vibrio harveyi;Vibrio navarrensis	1	13	12	High-quality
+SAMN17298289_p2	4	Vibrio cholerae;Vibrio harveyi;Vibrio navarrensis;Vibrio paracholerae	3	Vibrio cholerae;Vibrio harveyi;Vibrio navarrensis	1	13	11	High-quality
+SAMN34315296_p1	4	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis;Vibrio paracholerae	2	Vibrio cholerae;Vibrio navarrensis	2	209	137	Medium-quality
+SAMN24593214_p5	4	Vibrio cholerae;Vibrio fluvialis;Vibrio furnissii;Vibrio navarrensis	2	Vibrio cholerae;Vibrio fluvialis	2	83	72	High-quality
+SAMN49797544_p3	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	5	673	270	High-quality
+SAMN49797556_p1	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	10	699	281	Complete
+SAMN12057860_p2	4	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae;Vibrio vulnificus	2	Vibrio cholerae;Vibrio paracholerae	7	45	31	Medium-quality
+SAMN40160518_p1	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	1	291	180	Medium-quality
+SAMN12057814_p1	4	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae;Vibrio vulnificus	1	Vibrio cholerae	1	31	23	Medium-quality
+SAMN38476540_p1	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	1	221	145	Medium-quality
+SAMN14214611_p2	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio navarrensis	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	1	207	142	Medium-quality
+SAMN07367890_p1	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	1	238	153	Medium-quality
+SAMN15646506_p4	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	1	293	179	Medium-quality
+SAMN38494069_p2	4	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	1	284	158	Medium-quality
+SAMN29395242_p2	4	Vibrio cholerae;Vibrio fluvialis;Vibrio navarrensis;Vibrio paracholerae	4	Vibrio cholerae;Vibrio fluvialis;Vibrio navarrensis;Vibrio paracholerae	1	52	51	High-quality
+SAMN56501511_p3	4	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis;Vibrio paracholerae	4	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis;Vibrio paracholerae	7	144	95	Medium-quality
+SAMN45093038_p3	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio navarrensis	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	7	190	112	Medium-quality
+SAMN36689554_p3	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	9	449	244	Medium-quality
+SAMN56681712_p1	4	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	5	643	271	High-quality
+SAMN02435859_p3	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	3	157	94	Medium-quality
+SAMN13897693_p1	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	1	605	235	High-quality
+SAMN40643599_p2	3	Vibrio cholerae;Vibrio harveyi;Vibrio parahaemolyticus	2	Vibrio harveyi;Vibrio parahaemolyticus	1	9	5	High-quality
+SAMN07338103_p2	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	2	Vibrio cholerae;Vibrio navarrensis	1	11	7	Medium-quality
+SAMN14944065_p3	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	2	165	109	Medium-quality
+SAMN12648312_p2	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	1	429	211	High-quality
+SAMN40604354_p2	3	Vibrio cholerae;Vibrio navarrensis;Vibrio paracholerae	2	Vibrio cholerae;Vibrio navarrensis	1	31	30	High-quality
+SAMN12057876_p1	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	3	643	259	High-quality
+SAMN09386766_p4	3	Vibrio cholerae;Vibrio navarrensis;Vibrio paracholerae	2	Vibrio cholerae;Vibrio navarrensis	1	32	31	High-quality
+SAMN13897699_p1	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	5	613	259	High-quality
+SAMN10970911_p1	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	7	790	290	High-quality
+SAMN36689567_p2	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	6	636	265	High-quality
+SAMN15818768_p3	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	4	727	273	High-quality
+SAMN07739081_p4	3	Vibrio cholerae;Vibrio navarrensis;Vibrio paracholerae	2	Vibrio cholerae;Vibrio navarrensis	1	36	33	High-quality
+SAMN41254067_p4	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	4	739	274	High-quality
+SAMN17298282_p4	3	Vibrio cholerae;Vibrio navarrensis;Vibrio paracholerae	2	Vibrio cholerae;Vibrio navarrensis	1	32	31	High-quality
+SAMN08984076_p2	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	2	605	277	High-quality
+SAMN14752703_p6	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	2	Vibrio cholerae;Vibrio metoecus	2	108	73	Medium-quality
+SAMN17159947_p1	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	5	175	107	Medium-quality
+SAMN13404277_p1	3	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus	2	Vibrio cholerae;Vibrio metoecus	2	210	141	Medium-quality
+SAMN09662877_p2	3	Vibrio cholerae;Vibrio navarrensis;Vibrio paracholerae	2	Vibrio cholerae;Vibrio navarrensis	4	219	135	Medium-quality
+SAMN40160524_p1	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	1	141	99	Medium-quality
+SAMN13706869_p1	3	Vibrio cholerae;Vibrio navarrensis;Vibrio parahaemolyticus	2	Vibrio cholerae;Vibrio parahaemolyticus	1	13	10	High-quality
+SAMN30418558_p1	3	Vibrio cholerae;Vibrio navarrensis;Vibrio parahaemolyticus	2	Vibrio cholerae;Vibrio parahaemolyticus	4	27	10	High-quality
+SAMN02368294_p1	3	Vibrio cholerae;Vibrio navarrensis;Vibrio parahaemolyticus	2	Vibrio cholerae;Vibrio parahaemolyticus	2	17	10	High-quality
+SAMN30916801_p1	3	Vibrio cholerae;Vibrio navarrensis;Vibrio parahaemolyticus	1	Vibrio navarrensis	1	4	4	Medium-quality
+SAMN16587835_p2	3	Vibrio cholerae;Vibrio navarrensis;Vibrio parahaemolyticus	1	Vibrio cholerae	3	6	6	Medium-quality
+SAMN17298286_p1	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	2	Vibrio cholerae;Vibrio metoecus	1	5	5	Medium-quality
+SAMN37256235_p1	3	Vibrio cholerae;Vibrio navarrensis;Vibrio parahaemolyticus	2	Vibrio cholerae;Vibrio navarrensis	9	11	10	High-quality
+SAMN41809259_p1	3	Vibrio cholerae;Vibrio navarrensis;Vibrio parahaemolyticus	2	Vibrio cholerae;Vibrio navarrensis	3	11	10	High-quality
+SAMN44841005_p2	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	2	Vibrio cholerae;Vibrio vulnificus	2	9	9	Medium-quality
+SAMN16268016_p1	3	Vibrio cholerae;Vibrio fluvialis;Vibrio mimicus	2	Vibrio cholerae;Vibrio fluvialis	1	15	15	High-quality
+SAMN09386766_p2	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	2	Vibrio cholerae;Vibrio navarrensis	4	18	17	High-quality
+SAMN15763361_p2	3	Vibrio fluvialis;Vibrio furnissii;Vibrio paracholerae	2	Vibrio fluvialis;Vibrio paracholerae	1	53	37	High-quality
+SAMN12668377_p3	3	Vibrio cholerae;Vibrio navarrensis;Vibrio parahaemolyticus	2	Vibrio cholerae;Vibrio parahaemolyticus	2	24	10	High-quality
+SAMN56681718_p2	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	1	105	79	Medium-quality
+SAMN40160512_p3	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	5	147	92	Medium-quality
+SAMN56681722_p1	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	1	142	100	Medium-quality
+SAMN07192612_p2	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	16	158	98	Medium-quality
+SAMN07350470_p2	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	1	134	87	Medium-quality
+SAMN56501506_p2	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	8	246	135	Medium-quality
+SAMN06013680_p2	3	Vibrio cholerae;Vibrio navarrensis;Vibrio paracholerae	2	Vibrio cholerae;Vibrio navarrensis	1	33	32	High-quality
+SAMN40627812_p2	3	Vibrio cholerae;Vibrio harveyi;Vibrio navarrensis	3	Vibrio cholerae;Vibrio harveyi;Vibrio navarrensis	1	8	7	High-quality
+SAMN06484414_p1	3	Vibrio cholerae;Vibrio mimicus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio mimicus;Vibrio paracholerae	2	469	227	High-quality
+SAMN28767253_p4	3	Vibrio cholerae;Vibrio harveyi;Vibrio vulnificus	2	Vibrio cholerae;Vibrio harveyi	1	13	5	Complete
+SAMN12816916_p3	3	Vibrio cholerae;Vibrio navarrensis;Vibrio paracholerae	2	Vibrio cholerae;Vibrio navarrensis	2	10	10	High-quality
+SAMN09270229_p3	3	Vibrio cholerae;Vibrio navarrensis;Vibrio paracholerae	2	Vibrio cholerae;Vibrio navarrensis	1	8	8	High-quality
+SAMN36689567_p1	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	3	494	223	Medium-quality
+SAMN38736038_p3	3	Vibrio cholerae;Vibrio fluvialis;Vibrio furnissii	1	Vibrio fluvialis	1	16	13	High-quality
+SAMN36689552_p1	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	2	116	86	Medium-quality
+SAMN12288798_p2	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	3	Vibrio cholerae;Vibrio metoecus;Vibrio navarrensis	1	66	50	Medium-quality
+SAMN41920669_p2	3	Vibrio cholerae;Vibrio navarrensis;Vibrio parahaemolyticus	2	Vibrio cholerae;Vibrio parahaemolyticus	21	31	12	High-quality
+SAMN15889509_p1	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	1	12	9	High-quality
+SAMN14861780_p3	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	2	16	13	High-quality
+SAMN56417361_p3	3	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus	2	Vibrio cholerae;Vibrio metoecus	6	56	42	High-quality
+SAMN48586876_p3	3	Vibrio cholerae;Vibrio fluvialis;Vibrio navarrensis	2	Vibrio cholerae;Vibrio fluvialis	1	52	45	High-quality
+SAMN10362064_p3	3	Vibrio cholerae;Vibrio harveyi;Vibrio navarrensis	1	Vibrio harveyi	2	8	4	Medium-quality
+SAMN10360552_p2	3	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus	2	Vibrio cholerae;Vibrio metoecus	8	65	50	High-quality
+SAMN06013680_p3	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	0		2	3	3	High-quality
+SAMN06013686_p1	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	1	Vibrio navarrensis	1	6	6	High-quality
+SAMN26741402_p1	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	2	37	16	Complete
+SAMN40604319_p1	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	2	Vibrio navarrensis;Vibrio vulnificus	6	10	7	Complete
+SAMN07338223_p1	3	Vibrio fluvialis;Vibrio parahaemolyticus;Vibrio vulnificus	3	Vibrio fluvialis;Vibrio parahaemolyticus;Vibrio vulnificus	1	9	7	Medium-quality
+SAMN15755100_p1	3	Vibrio fluvialis;Vibrio parahaemolyticus;Vibrio vulnificus	2	Vibrio parahaemolyticus;Vibrio vulnificus	1	7	6	Medium-quality
+SAMN52217892_p1	3	Vibrio fluvialis;Vibrio parahaemolyticus;Vibrio vulnificus	3	Vibrio fluvialis;Vibrio parahaemolyticus;Vibrio vulnificus	1	11	10	Medium-quality
+SAMN13404287_p1	3	Vibrio cholerae;Vibrio paracholerae;Vibrio vulnificus	2	Vibrio cholerae;Vibrio paracholerae	1	44	33	Medium-quality
+SAMN50800691_p1	3	Vibrio cholerae;Vibrio navarrensis;Vibrio parahaemolyticus	3	Vibrio cholerae;Vibrio navarrensis;Vibrio parahaemolyticus	1	14	10	High-quality
+SAMN40604358_p1	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	1	17	13	High-quality
+SAMN12288745_p1	3	Vibrio cholerae;Vibrio mimicus;Vibrio paracholerae	2	Vibrio cholerae;Vibrio paracholerae	2	159	103	Medium-quality
+SAMN12648317_p2	3	Vibrio cholerae;Vibrio metoecus;Vibrio mimicus	2	Vibrio cholerae;Vibrio metoecus	13	66	49	Medium-quality
+SAMN08329236_p2	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	9	12	9	High-quality
+SAMN24593215_p1	3	Vibrio fluvialis;Vibrio navarrensis;Vibrio vulnificus	1	Vibrio fluvialis	1	6	5	High-quality
+SAMN30916803_p1	3	Vibrio cholerae;Vibrio metoecus;Vibrio vulnificus	3	Vibrio cholerae;Vibrio metoecus;Vibrio vulnificus	3	19	15	Complete
+SAMN10436686_p1	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	2	19	13	High-quality
+SAMN26741749_p3	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	1	13	10	High-quality
+SAMN47871284_p2	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	2	Vibrio cholerae;Vibrio navarrensis	47	8	8	High-quality
+SAMN16057398_p1	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	1	19	13	High-quality
+SAMN03571538_p2	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	5	26	16	High-quality
+SAMN42940246_p2	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	2	Vibrio cholerae;Vibrio vulnificus	1	14	11	High-quality
+SAMN06013679_p1	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	3	Vibrio cholerae;Vibrio navarrensis;Vibrio vulnificus	1	14	9	High-quality
+SAMN00989304_p3	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	3	Vibrio cholerae;Vibrio metoecus;Vibrio paracholerae	51	695	263	High-quality
+SAMN42940264_p2	2	Vibrio navarrensis;Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	2	28	15	High-quality
+SAMN33330974_p4	2	Vibrio cholerae;Vibrio harveyi	2	Vibrio cholerae;Vibrio harveyi	5	19	5	High-quality
+SAMN47931905_p1	2	Vibrio navarrensis;Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	28	15	High-quality
+SAMN45047349_p1	2	Vibrio navarrensis;Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	2	15	15	High-quality
+SAMN48588026_p3	2	Vibrio navarrensis;Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	28	15	High-quality
+SAMN40575456_p1	2	Vibrio navarrensis;Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	3	28	15	High-quality
+SAMN40604318_p1	2	Vibrio navarrensis;Vibrio vulnificus	0		7	2	2	High-quality
+SAMN32407400_p3	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	1	5	3	High-quality
+SAMN33268487_p1	2	Vibrio cholerae;Vibrio metoecus	2	Vibrio cholerae;Vibrio metoecus	5	5	5	High-quality
+SAMN07338114_p2	2	Vibrio navarrensis;Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	15	15	High-quality
+SAMN10601626_p1	2	Vibrio navarrensis;Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	17	15	High-quality
+SAMN18298706_p3	2	Vibrio navarrensis;Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	14	14	High-quality
+SAMN39716348_p1	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	2	11	3	Medium-quality
+SAMN18298680_p2	2	Vibrio navarrensis;Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	15	15	High-quality
+SAMN18298716_p2	2	Vibrio navarrensis;Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	28	15	High-quality
+SAMN32407620_p2	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	1	3	3	Medium-quality
+SAMN07739081_p3	2	Vibrio cholerae;Vibrio vulnificus	2	Vibrio cholerae;Vibrio vulnificus	1	11	8	High-quality
+SAMN13500487_p2	2	Vibrio cholerae;Vibrio navarrensis	1	Vibrio cholerae	3	13	8	Medium-quality
+SAMN20982446_p2	2	Vibrio cholerae;Vibrio harveyi	2	Vibrio cholerae;Vibrio harveyi	1	5	5	High-quality
+SAMN47436111_p2	2	Vibrio harveyi;Vibrio parahaemolyticus	1	Vibrio harveyi	2	7	4	Medium-quality
+SAMN12648281_p1	2	Vibrio cholerae;Vibrio parahaemolyticus	2	Vibrio cholerae;Vibrio parahaemolyticus	1	15	9	High-quality
+SAMN20805042_p1	2	Vibrio fluvialis;Vibrio navarrensis	1	Vibrio fluvialis	1	54	42	High-quality
+SAMN18298672_p3	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	1	3	3	High-quality
+SAMN28495058_p3	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	2	11	3	Complete
+SAMN33423629_p1	2	Vibrio cholerae;Vibrio fluvialis	2	Vibrio cholerae;Vibrio fluvialis	2	43	24	Complete
+SAMN12648294_p1	2	Vibrio cholerae;Vibrio metoecus	2	Vibrio cholerae;Vibrio metoecus	1	5	5	High-quality
+SAMN11547079_p2	2	Vibrio cholerae;Vibrio harveyi	2	Vibrio cholerae;Vibrio harveyi	66	13	5	High-quality
+SAMN48586876_p5	2	Vibrio cholerae;Vibrio navarrensis	2	Vibrio cholerae;Vibrio navarrensis	1	24	22	Complete
+SAMN03178171_p4	2	Vibrio cholerae;Vibrio paracholerae	2	Vibrio cholerae;Vibrio paracholerae	1	9	8	Medium-quality
+SAMN13023390_p2	2	Vibrio cholerae;Vibrio paracholerae	2	Vibrio cholerae;Vibrio paracholerae	1	9	9	High-quality
+SAMN18385663_p2	2	Vibrio navarrensis;Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	10	28	15	High-quality
+SAMN35628445_p1	2	Vibrio navarrensis;Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	15	15	High-quality
+SAMN11937831_p4	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	4	3	3	Medium-quality
+SAMN15567610_p1	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	2	5	3	High-quality
+SAMN40574011_p2	2	Vibrio navarrensis;Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	15	15	High-quality
+SAMN29328586_p2	2	Vibrio cholerae;Vibrio harveyi	2	Vibrio cholerae;Vibrio harveyi	3	14	4	High-quality
+SAMN06066420_p1	2	Vibrio cholerae;Vibrio harveyi	2	Vibrio cholerae;Vibrio harveyi	3	5	5	High-quality
+SAMN20805043_p6	2	Vibrio cholerae;Vibrio metoecus	2	Vibrio cholerae;Vibrio metoecus	1	5	5	High-quality
+SAMN40571798_p2	2	Vibrio navarrensis;Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	27	14	High-quality
+SAMN15646532_p2	2	Vibrio cholerae;Vibrio mimicus	1	Vibrio cholerae	4	33	27	Medium-quality
+SAMN28672590_p4	2	Vibrio cholerae;Vibrio metoecus	2	Vibrio cholerae;Vibrio metoecus	3	5	5	Medium-quality
+SAMN28495051_p1	2	Vibrio navarrensis;Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	27	14	High-quality
+SAMN20805048_p1	2	Vibrio cholerae;Vibrio fluvialis	2	Vibrio cholerae;Vibrio fluvialis	1	60	36	High-quality
+SAMN24907466_p1	2	Vibrio navarrensis;Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	27	14	High-quality
+SAMN34999117_p1	2	Vibrio cholerae;Vibrio navarrensis	1	Vibrio cholerae	5	10	6	High-quality
+SAMN07338168_p1	2	Vibrio navarrensis;Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	27	14	High-quality
+SAMN15667316_p4	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	1	3	3	High-quality
+SAMN53906729_p2	2	Vibrio cholerae;Vibrio parahaemolyticus	1	Vibrio cholerae	2	6	6	Complete
+SAMN40891661_p2	2	Vibrio navarrensis;Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	27	14	High-quality
+SAMN15829766_p2	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	3	3	3	High-quality
+SAMN12648275_p3	2	Vibrio cholerae;Vibrio metoecus	2	Vibrio cholerae;Vibrio metoecus	2	5	5	Medium-quality
+SAMN45916484_p1	2	Vibrio fluvialis;Vibrio paracholerae	2	Vibrio fluvialis;Vibrio paracholerae	2	5	5	Complete
+SAMN20804979_p1	2	Vibrio fluvialis;Vibrio furnissii	1	Vibrio fluvialis	1	51	30	Complete
+SAMN12648291_p2	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	1	3	3	High-quality
+SAMN04457467_p3	2	Vibrio cholerae;Vibrio navarrensis	2	Vibrio cholerae;Vibrio navarrensis	1	5	5	High-quality
+SAMN28495032_p1	2	Vibrio navarrensis;Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	29	15	High-quality
+SAMN06110496_p1	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	1	7	3	Medium-quality
+SAMN06917282_p2	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	2	3	3	Complete
+SAMN32406563_p3	2	Vibrio cholerae;Vibrio harveyi	2	Vibrio cholerae;Vibrio harveyi	1	11	5	Medium-quality
+SAMN02912085_p1	2	Vibrio navarrensis;Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	5	5	High-quality
+SAMN03470190_p2	2	Vibrio cholerae;Vibrio metoecus	2	Vibrio cholerae;Vibrio metoecus	1	7	7	Medium-quality
+SAMN26742818_p2	2	Vibrio cholerae;Vibrio parahaemolyticus	1	Vibrio cholerae	2	4	4	Medium-quality
+SAMN07338202_p5	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	1	11	3	Medium-quality
+SAMN20805044_p5	2	Vibrio fluvialis;Vibrio furnissii	1	Vibrio fluvialis	1	14	10	High-quality
+SAMN17298298_p1	2	Vibrio cholerae;Vibrio navarrensis	0		1	2	2	Medium-quality
+SAMN09386781_p2	2	Vibrio cholerae;Vibrio navarrensis	0		1	2	2	Medium-quality
+SAMN06013691_p2	2	Vibrio cholerae;Vibrio navarrensis	0		1	2	2	Medium-quality
+SAMN53839611_p3	2	Vibrio cholerae;Vibrio harveyi	2	Vibrio cholerae;Vibrio harveyi	6	15	5	Medium-quality
+SAMN13023394_p1	2	Vibrio azureus;Vibrio cholerae	1	Vibrio cholerae	1	12	3	High-quality
+SAMN02708867_p2	2	Vibrio cholerae;Vibrio navarrensis	1	Vibrio navarrensis	1	3	3	High-quality
+SAMN06184571_p1	2	Vibrio cholerae;Vibrio navarrensis	0		1	2	2	High-quality
+SAMN12168575_p1	2	Vibrio cholerae;Vibrio metoecus	2	Vibrio cholerae;Vibrio metoecus	1	98	75	Medium-quality
+SAMN07337904_p1	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	1	3	3	High-quality
+SAMN52950331_p1	2	Vibrio cholerae;Vibrio metoecus	2	Vibrio cholerae;Vibrio metoecus	1	43	32	High-quality
+SAMN40160511_p1	2	Vibrio cholerae;Vibrio metoecus	2	Vibrio cholerae;Vibrio metoecus	4	42	34	High-quality
+SAMN13704149_p1	2	Vibrio cholerae;Vibrio metoecus	2	Vibrio cholerae;Vibrio metoecus	1	37	26	High-quality
+SAMEA115018381_p2	2	Vibrio cholerae;Vibrio navarrensis	1	Vibrio navarrensis	2	11	8	Medium-quality
+SAMN06013685_p1	2	Vibrio cholerae;Vibrio navarrensis	2	Vibrio cholerae;Vibrio navarrensis	2	13	9	High-quality
+SAMN12648299_p1	2	Vibrio navarrensis;Vibrio vulnificus	1	Vibrio navarrensis	1	19	11	High-quality
+SAMN16560730_p3	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	1	13	3	Medium-quality
+SAMN44731497_p1	2	Vibrio navarrensis;Vibrio vulnificus	1	Vibrio vulnificus	2	12	8	Complete
+SAMN32299956_p5	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	4	3	3	Complete
+SAMN40019047_p3	2	Vibrio cholerae;Vibrio navarrensis	2	Vibrio cholerae;Vibrio navarrensis	1	35	26	Medium-quality
+SAMN40717396_p4	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	1	5	3	High-quality
+SAMN04296643_p2	2	Vibrio navarrensis;Vibrio vulnificus	1	Vibrio navarrensis	2	7	6	Complete
+SAMN42940265_p3	2	Vibrio cholerae;Vibrio navarrensis	1	Vibrio cholerae	1	7	5	Complete
+SAMN42940266_p2	2	Vibrio cholerae;Vibrio navarrensis	1	Vibrio cholerae	2	3	3	Complete
+SAMN39715769_p4	2	Vibrio navarrensis;Vibrio vulnificus	2	Vibrio navarrensis;Vibrio vulnificus	8	11	6	Medium-quality
+SAMN03104885_p2	2	Vibrio cholerae;Vibrio metoecus	2	Vibrio cholerae;Vibrio metoecus	11	51	39	High-quality
+SAMN02746033_p1	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	1	9	3	High-quality
+SAMN24777688_p3	2	Vibrio cholerae;Vibrio harveyi	2	Vibrio cholerae;Vibrio harveyi	3	17	5	High-quality
+SAMN03452290_p2	2	Vibrio cholerae;Vibrio harveyi	2	Vibrio cholerae;Vibrio harveyi	1	12	4	Medium-quality
+SAMEA112157108_p2	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	2	3	3	High-quality
+SAMEA112324418_p1	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	1	3	3	High-quality
+SAMN02368283_p1	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	2	5	3	Medium-quality
+SAMN40571795_p2	2	Vibrio harveyi;Vibrio vulnificus	2	Vibrio harveyi;Vibrio vulnificus	1	6	6	Complete
+SAMN40453158_p1	2	Vibrio navarrensis;Vibrio vulnificus	2	Vibrio navarrensis;Vibrio vulnificus	2	14	10	Complete
+SAMN09742665_p1	2	Vibrio cholerae;Vibrio harveyi	2	Vibrio cholerae;Vibrio harveyi	6	15	5	Medium-quality
+SAMN02712351_p2	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	1	3	3	High-quality
+SAMEA8103025_p3	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	3	9	3	High-quality
+SAMEA112324421_p4	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	2	3	3	High-quality
+SAMN03457164_p4	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	1	5	3	High-quality
+SAMN04441014_p3	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	1	3	3	High-quality
+SAMN39716325_p4	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	1	3	3	High-quality
+SAMN40565714_p1	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	1	3	3	High-quality
+SAMN12364843_p3	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	2	9	3	High-quality
+SAMN56518618_p4	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	3	3	3	Medium-quality
+SAMN32300845_p2	2	Vibrio alginolyticus;Vibrio parahaemolyticus	2	Vibrio alginolyticus;Vibrio parahaemolyticus	1	8	8	Medium-quality
+SAMN39716331_p1	2	Vibrio alginolyticus;Vibrio parahaemolyticus	2	Vibrio alginolyticus;Vibrio parahaemolyticus	4	22	20	Medium-quality
+SAMN56917243_p2	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	1	5	3	High-quality
+SAMN12645948_p1	2	Vibrio alginolyticus;Vibrio parahaemolyticus	2	Vibrio alginolyticus;Vibrio parahaemolyticus	7	16	16	High-quality
+SAMN55333169_p2	2	Vibrio alginolyticus;Vibrio parahaemolyticus	2	Vibrio alginolyticus;Vibrio parahaemolyticus	19	20	20	Medium-quality
+SAMN32300851_p2	2	Vibrio alginolyticus;Vibrio parahaemolyticus	2	Vibrio alginolyticus;Vibrio parahaemolyticus	11	20	19	Medium-quality
+SAMN02708867_p1	2	Vibrio cholerae;Vibrio navarrensis	2	Vibrio cholerae;Vibrio navarrensis	1	14	14	Medium-quality
+SAMN09878947_p3	2	Vibrio alginolyticus;Vibrio parahaemolyticus	2	Vibrio alginolyticus;Vibrio parahaemolyticus	4	17	17	Medium-quality
+SAMN29790255_p3	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	1	5	3	Medium-quality
+SAMN18298697_p5	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	1	3	3	High-quality
+SAMN06196908_p1	2	Vibrio cholerae;Vibrio metoecus	2	Vibrio cholerae;Vibrio metoecus	2	53	41	Medium-quality
+SAMEA12312943_p1	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	1	5	3	High-quality
+SAMN53840730_p1	2	Vibrio cholerae;Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	2	19	8	High-quality
+SAMN02368280_p2	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	2	11	3	High-quality
+SAMN28495056_p3	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	1	13	3	Medium-quality
+SAMN24777680_p1	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	2	11	3	High-quality
+SAMN29790268_p5	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	1	11	3	High-quality
+SAMN39105730_p2	2	Vibrio cholerae;Vibrio parahaemolyticus	2	Vibrio cholerae;Vibrio parahaemolyticus	1	13	9	Complete
+SAMN36689564_p1	2	Vibrio cholerae;Vibrio metoecus	2	Vibrio cholerae;Vibrio metoecus	20	71	52	Medium-quality
+SAMN40697797_p1	2	Vibrio alginolyticus;Vibrio parahaemolyticus	1	Vibrio alginolyticus	2	3	3	Medium-quality
+SAMN53840712_p3	2	Vibrio cholerae;Vibrio harveyi	2	Vibrio cholerae;Vibrio harveyi	1	11	5	Complete
+SAMN37260050_p3	2	Vibrio alginolyticus;Vibrio parahaemolyticus	1	Vibrio alginolyticus	2	3	3	Medium-quality
+SAMN41079253_p1	2	Vibrio navarrensis;Vibrio vulnificus	1	Vibrio navarrensis	4	6	4	High-quality
+SAMN06013679_p2	2	Vibrio cholerae;Vibrio navarrensis	2	Vibrio cholerae;Vibrio navarrensis	1	36	24	High-quality
+SAMN02910586_p2	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	10	3	3	High-quality
+SAMN08329235_p1	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	8	3	3	High-quality
+SAMN09694269_p2	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	9	5	3	High-quality
+SAMN04508217_p2	2	Vibrio cholerae;Vibrio paracholerae	1	Vibrio cholerae	9	3	3	High-quality
+SAMN10362062_p3	2	Vibrio cholerae;Vibrio paracholerae	1	Vibrio cholerae	1	3	3	High-quality
+SAMN53906728_p2	2	Vibrio cholerae;Vibrio vulnificus	1	Vibrio cholerae	2	8	5	Complete
+SAMN09737247_p1	2	Vibrio cholerae;Vibrio navarrensis	2	Vibrio cholerae;Vibrio navarrensis	7	22	13	Complete
+SAMN52950333_p1	2	Vibrio cholerae;Vibrio metoecus	2	Vibrio cholerae;Vibrio metoecus	4	61	46	High-quality
+SAMN04523674_p2	2	Vibrio cholerae;Vibrio harveyi	1	Vibrio harveyi	1	7	3	Medium-quality
+SAMN06115650_p1	1	Vibrio cholerae	1	Vibrio cholerae	1	2	2	High-quality
+SAMN09537147_p1	1	Vibrio cholerae	1	Vibrio cholerae	2	2	2	High-quality
+SAMN10362293_p2	1	Vibrio cholerae	1	Vibrio cholerae	1	2	2	High-quality
+SAMN22346950_p2	1	Vibrio cholerae	1	Vibrio cholerae	1	2	2	High-quality
+SAMN10362347_p1	1	Vibrio cholerae	1	Vibrio cholerae	1	2	2	High-quality
+SAMN05418143_p2	1	Vibrio cholerae	1	Vibrio cholerae	3	2	2	Medium-quality
+SAMN33237140_p2	1	Vibrio cholerae	1	Vibrio cholerae	1	2	2	High-quality
+SAMN02470506_p1	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN02393817_p1	1	Vibrio cholerae	1	Vibrio cholerae	2	4	4	High-quality
+SAMN03996261_p2	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN03996261_p3	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN05418228_p1	1	Vibrio cholerae	1	Vibrio cholerae	1	3	3	High-quality
+SAMN06209376_p2	1	Vibrio cholerae	0		1	1	1	Complete
+SAMN07338047_p2	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN07338113_p1	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN09208625_p2	1	Vibrio cholerae	0		2	1	1	High-quality
+SAMN09355280_p1	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN43825322_p3	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN07337872_p3	1	Vibrio cholerae	0		6	1	1	High-quality
+SAMN50800672_p2	1	Vibrio cholerae	0		2	1	1	High-quality
+SAMN56917247_p1	1	Vibrio cholerae	0		2	1	1	High-quality
+SAMD00178443_p1	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN24372625_p1	1	Vibrio cholerae	1	Vibrio cholerae	2	2	2	High-quality
+SAMN18298722_p1	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN19769866_p1	1	Vibrio cholerae	0		2	1	1	High-quality
+SAMN19957696_p3	1	Vibrio cholerae	0		1	1	1	Medium-quality
+SAMN24907466_p3	1	Vibrio cholerae	0		2	1	1	Medium-quality
+SAMN28495016_p5	1	Vibrio cholerae	0		2	1	1	High-quality
+SAMN29790269_p4	1	Vibrio cholerae	0		2	1	1	High-quality
+SAMN30308487_p1	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN32407258_p2	1	Vibrio cholerae	0		3	1	1	High-quality
+SAMN39606344_p3	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN05418182_p1	1	Vibrio cholerae	0		1	1	1	Medium-quality
+SAMN07338200_p2	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN09742605_p1	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN10362062_p1	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN10362072_p1	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN11998571_p3	1	Vibrio cholerae	0		1	1	1	Medium-quality
+SAMN02252525_p1	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN35557944_p1	1	Vibrio harveyi	1	Vibrio harveyi	1	2	2	High-quality
+SAMN32407635_p2	1	Vibrio harveyi	1	Vibrio harveyi	2	2	2	High-quality
+SAMN04296647_p3	1	Vibrio navarrensis	1	Vibrio navarrensis	1	17	11	Medium-quality
+SAMN40584504_p4	1	Vibrio harveyi	1	Vibrio harveyi	1	4	2	Complete
+SAMN33423629_p2	1	Vibrio cholerae	1	Vibrio cholerae	1	4	4	High-quality
+SAMEA115015365_p2	1	Vibrio harveyi	0		3	1	1	High-quality
+SAMN47436111_p1	1	Vibrio vulnificus	0		1	1	1	Medium-quality
+SAMN40571708_p2	1	Vibrio fluvialis	1	Vibrio fluvialis	1	5	4	High-quality
+SAMN35557946_p2	1	Vibrio parahaemolyticus	0		9	1	1	High-quality
+SAMN48588251_p2	1	Vibrio parahaemolyticus	0		1	1	1	Medium-quality
+SAMN40584520_p1	1	Vibrio parahaemolyticus	0		1	1	1	High-quality
+SAMN20805033_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	2	26	13	Medium-quality
+SAMN28767225_p2	1	Vibrio parahaemolyticus	0		3	1	1	Medium-quality
+SAMN40584504_p1	1	Vibrio parahaemolyticus	0		1	1	1	Medium-quality
+SAMN08329233_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	2	3	2	High-quality
+SAMN11522370_p1	1	Vibrio cholerae	0		1	2	1	High-quality
+SAMN30916812_p4	1	Vibrio vulnificus	0		2	1	1	Medium-quality
+SAMN28767294_p3	1	Vibrio navarrensis	0		1	1	1	Medium-quality
+SAMN28767216_p1	1	Vibrio navarrensis	0		1	1	1	Medium-quality
+SAMN28495048_p3	1	Vibrio navarrensis	0		1	1	1	High-quality
+SAMN28495042_p1	1	Vibrio navarrensis	0		1	1	1	Medium-quality
+SAMN18298672_p1	1	Vibrio navarrensis	0		1	1	1	Medium-quality
+SAMN10880809_p3	1	Vibrio navarrensis	0		1	1	1	Medium-quality
+SAMN28495016_p2	1	Vibrio parahaemolyticus	0		1	1	1	Medium-quality
+SAMN12816916_p2	1	Vibrio vulnificus	0		1	1	1	High-quality
+SAMN09386759_p3	1	Vibrio vulnificus	0		1	1	1	Medium-quality
+SAMN03571538_p3	1	Vibrio vulnificus	0		1	1	1	High-quality
+SAMN41809262_p2	1	Vibrio vulnificus	0		1	1	1	Medium-quality
+SAMN41809252_p3	1	Vibrio vulnificus	0		1	1	1	Medium-quality
+SAMN20805065_p2	1	Vibrio cholerae	1	Vibrio cholerae	1	9	6	Complete
+SAMEA12312942_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	4	2	Medium-quality
+SAMN02712353_p3	1	Vibrio harveyi	1	Vibrio harveyi	1	2	2	Medium-quality
+SAMN02471131_p2	1	Vibrio harveyi	1	Vibrio harveyi	1	12	2	Complete
+SAMEA8103032_p3	1	Vibrio harveyi	1	Vibrio harveyi	3	10	2	Complete
+SAMN05418239_p1	1	Vibrio harveyi	1	Vibrio harveyi	1	2	2	High-quality
+SAMN37503413_p3	1	Vibrio harveyi	1	Vibrio harveyi	2	2	2	High-quality
+SAMN40717398_p4	1	Vibrio harveyi	1	Vibrio harveyi	1	6	2	High-quality
+SAMN09874178_p3	1	Vibrio parahaemolyticus	0		1	1	1	Medium-quality
+SAMN28494995_p2	1	Vibrio harveyi	1	Vibrio harveyi	2	4	2	High-quality
+SAMN02712353_p6	1	Vibrio harveyi	1	Vibrio harveyi	4	2	2	Medium-quality
+SAMN28495011_p1	1	Vibrio harveyi	1	Vibrio harveyi	7	2	2	Medium-quality
+SAMN47931894_p3	1	Vibrio harveyi	1	Vibrio harveyi	3	2	2	High-quality
+SAMN40571839_p2	1	Vibrio harveyi	1	Vibrio harveyi	1	2	2	High-quality
+SAMN40571794_p1	1	Vibrio harveyi	1	Vibrio harveyi	1	2	2	High-quality
+SAMN40571705_p2	1	Vibrio harveyi	1	Vibrio harveyi	1	2	2	High-quality
+SAMN39962933_p7	1	Vibrio harveyi	1	Vibrio harveyi	1	2	2	High-quality
+SAMN32411345_p1	1	Vibrio harveyi	1	Vibrio harveyi	4	2	2	High-quality
+SAMN08805478_p1	1	Vibrio harveyi	1	Vibrio harveyi	1	2	2	High-quality
+SAMN15597503_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	2	26	13	Medium-quality
+SAMN40561775_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	2	26	13	High-quality
+SAMN32406675_p3	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	2	26	13	Medium-quality
+SAMN28495049_p2	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	26	13	High-quality
+SAMN02368321_p1	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN07338049_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	26	13	Medium-quality
+SAMN06169655_p2	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	26	13	High-quality
+SAMN28495039_p2	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	26	13	High-quality
+SAMN05418245_p1	1	Vibrio cholerae	1	Vibrio cholerae	1	2	2	High-quality
+SAMN05418237_p1	1	Vibrio cholerae	1	Vibrio cholerae	3	2	2	High-quality
+SAMN12057824_p1	1	Vibrio cholerae	1	Vibrio cholerae	2	41	27	Medium-quality
+SAMN07338191_p4	1	Vibrio navarrensis	0		1	1	1	Medium-quality
+SAMN05418224_p1	1	Vibrio cholerae	1	Vibrio cholerae	1	2	2	High-quality
+SAMN05418089_p1	1	Vibrio cholerae	1	Vibrio cholerae	1	2	2	High-quality
+SAMN05418039_p2	1	Vibrio cholerae	1	Vibrio cholerae	1	2	2	Medium-quality
+SAMN05417988_p1	1	Vibrio cholerae	1	Vibrio cholerae	1	2	2	High-quality
+SAMN05172610_p1	1	Vibrio cholerae	1	Vibrio cholerae	1	2	2	High-quality
+SAMN02470507_p2	1	Vibrio cholerae	1	Vibrio cholerae	1	2	2	High-quality
+SAMEA117551943_p1	1	Vibrio cholerae	1	Vibrio cholerae	3	2	2	High-quality
+SAMN44771342_p1	1	Vibrio cholerae	1	Vibrio cholerae	2	6	6	Complete
+SAMN15646505_p2	1	Vibrio cholerae	0		1	1	1	Medium-quality
+SAMN02470441_p1	1	Vibrio cholerae	1	Vibrio cholerae	5	2	2	High-quality
+SAMN41905203_p2	1	Vibrio cholerae	1	Vibrio cholerae	1	2	2	Medium-quality
+SAMN12057821_p1	1	Vibrio cholerae	1	Vibrio cholerae	4	13	13	Medium-quality
+SAMN05860636_p1	1	Vibrio navarrensis	0		9	1	1	High-quality
+SAMN02741374_p3	1	Vibrio navarrensis	0		1	1	1	Medium-quality
+SAMN02368286_p3	1	Vibrio navarrensis	0		1	1	1	Medium-quality
+SAMN01923895_p2	1	Vibrio navarrensis	0		1	1	1	Medium-quality
+SAMN44841005_p1	1	Vibrio navarrensis	0		1	1	1	High-quality
+SAMEA8103036_p1	1	Vibrio navarrensis	0		2	1	1	High-quality
+SAMN40627811_p1	1	Vibrio vulnificus	0		1	1	1	Medium-quality
+SAMN03571538_p1	1	Vibrio vulnificus	0		2	1	1	High-quality
+SAMN14852540_p2	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	13	13	Medium-quality
+SAMN31841003_p3	1	Vibrio cholerae	1	Vibrio cholerae	1	2	2	High-quality
+SAMN25050340_p2	1	Vibrio harveyi	1	Vibrio harveyi	3	3	3	High-quality
+SAMN17214697_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	12	12	Complete
+SAMN53906747_p2	1	Vibrio navarrensis	0		1	1	1	Medium-quality
+SAMN20982394_p1	1	Vibrio navarrensis	0		2	1	1	Medium-quality
+SAMN44286686_p1	1	Vibrio navarrensis	0		1	1	1	Medium-quality
+SAMN41920674_p3	1	Vibrio navarrensis	0		1	1	1	Medium-quality
+SAMN41920658_p2	1	Vibrio navarrensis	0		1	1	1	Medium-quality
+SAMN40717405_p2	1	Vibrio navarrensis	0		1	1	1	Medium-quality
+SAMN40584504_p2	1	Vibrio navarrensis	0		1	1	1	Medium-quality
+SAMN39962933_p3	1	Vibrio navarrensis	0		1	1	1	High-quality
+SAMN33548586_p2	1	Vibrio navarrensis	0		1	1	1	Medium-quality
+SAMN32218570_p1	1	Vibrio navarrensis	0		1	1	1	Medium-quality
+SAMN12168584_p1	1	Vibrio cholerae	0		1	1	1	Medium-quality
+SAMN20805040_p1	1	Vibrio fluvialis	1	Vibrio fluvialis	1	3	2	Complete
+SAMN53840719_p4	1	Vibrio navarrensis	0		1	1	1	Medium-quality
+SAMN28767223_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	27	14	High-quality
+SAMN28495033_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	14	14	High-quality
+SAMN28494981_p3	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	14	14	High-quality
+SAMN18298736_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	14	14	High-quality
+SAMN18298730_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	27	14	High-quality
+SAMN18298729_p5	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	2	14	14	Medium-quality
+SAMN13023393_p3	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	14	14	Medium-quality
+SAMN12668396_p2	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	27	14	High-quality
+SAMN07337994_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	14	14	High-quality
+SAMN52650543_p2	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	27	14	High-quality
+SAMN51861946_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	14	14	High-quality
+SAMN24593223_p2	1	Vibrio cholerae	0		2	1	1	High-quality
+SAMN40584489_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	2	27	14	High-quality
+SAMN40571797_p2	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	27	14	Medium-quality
+SAMN40560757_p3	1	Vibrio parahaemolyticus	0		1	1	1	High-quality
+SAMN07338106_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	3	27	14	Medium-quality
+SAMN32407619_p2	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	27	14	High-quality
+SAMN56681726_p1	1	Vibrio cholerae	1	Vibrio cholerae	2	5	5	Medium-quality
+SAMN36689569_p1	1	Vibrio cholerae	1	Vibrio cholerae	1	5	5	Medium-quality
+SAMN13704165_p3	1	Vibrio cholerae	1	Vibrio cholerae	8	6	6	Medium-quality
+SAMN12639444_p1	1	Vibrio cholerae	1	Vibrio cholerae	5	7	7	Medium-quality
+SAMN07350489_p2	1	Vibrio cholerae	1	Vibrio cholerae	2	5	5	Medium-quality
+SAMN53258651_p1	1	Vibrio harveyi	1	Vibrio harveyi	1	7	3	Medium-quality
+SAMN46862179_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	27	14	High-quality
+SAMN32407788_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	27	24	9	Medium-quality
+SAMN56917198_p2	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	7	9	6	Medium-quality
+SAMN53840715_p2	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	13	9	6	Medium-quality
+SAMN07337994_p3	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	6	12	9	Medium-quality
+SAMN12648303_p2	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	13	21	9	Medium-quality
+SAMN42149892_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	20	8	Medium-quality
+SAMN29790269_p2	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	5	21	9	Medium-quality
+SAMN39716327_p2	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	2	9	6	Medium-quality
+SAMN32400338_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	9	6	Medium-quality
+SAMN28767274_p2	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	9	6	Medium-quality
+SAMN02741374_p2	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	6	24	9	Medium-quality
+SAMN28767313_p6	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	27	14	High-quality
+SAMN42940244_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	2	40	28	High-quality
+SAMN14087148_p1	1	Vibrio parahaemolyticus	0		1	1	1	Medium-quality
+SAMN29790272_p5	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	2	131	52	Medium-quality
+SAMN03799830_p2	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	2	133	54	Medium-quality
+SAMN45842239_p2	1	Vibrio cholerae	1	Vibrio cholerae	3	8	8	High-quality
+SAMN29790273_p3	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	54	31	Medium-quality
+SAMN21365011_p4	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	9	167	55	Medium-quality
+SAMN42940231_p5	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	2	68	42	Medium-quality
+SAMN39716331_p2	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	2	150	51	Medium-quality
+SAMN52950332_p4	1	Vibrio cholerae	1	Vibrio cholerae	17	11	11	High-quality
+SAMN32406564_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	27	14	High-quality
+SAMN02603960_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	2	14	14	High-quality
+SAMN47931951_p1	1	Vibrio navarrensis	1	Vibrio navarrensis	1	10	3	Medium-quality
+SAMN28767274_p1	1	Vibrio navarrensis	1	Vibrio navarrensis	1	10	3	Medium-quality
+SAMN07739070_p1	1	Vibrio navarrensis	1	Vibrio navarrensis	1	5	3	Medium-quality
+SAMN28495007_p3	1	Vibrio harveyi	1	Vibrio harveyi	2	2	2	High-quality
+SAMN39716322_p1	1	Vibrio harveyi	1	Vibrio harveyi	1	4	2	High-quality
+SAMN32411316_p3	1	Vibrio harveyi	1	Vibrio harveyi	2	4	2	High-quality
+SAMN29790243_p5	1	Vibrio harveyi	1	Vibrio harveyi	3	8	2	Medium-quality
+SAMN32405628_p1	1	Vibrio harveyi	1	Vibrio harveyi	2	2	2	High-quality
+SAMN26982636_p1	1	Vibrio harveyi	1	Vibrio harveyi	4	2	2	High-quality
+SAMN28767317_p4	1	Vibrio harveyi	1	Vibrio harveyi	1	2	2	High-quality
+SAMN28767305_p2	1	Vibrio harveyi	1	Vibrio harveyi	4	2	2	High-quality
+SAMN47436124_p2	1	Vibrio harveyi	1	Vibrio harveyi	1	3	2	Medium-quality
+SAMN18298731_p3	1	Vibrio harveyi	1	Vibrio harveyi	1	2	2	High-quality
+SAMN15667309_p4	1	Vibrio harveyi	1	Vibrio harveyi	1	2	2	High-quality
+SAMN13500486_p2	1	Vibrio harveyi	1	Vibrio harveyi	1	2	2	High-quality
+SAMN12648253_p1	1	Vibrio harveyi	1	Vibrio harveyi	1	2	2	High-quality
+SAMN05302750_p4	1	Vibrio harveyi	1	Vibrio harveyi	1	2	2	High-quality
+SAMN17298282_p3	1	Vibrio vulnificus	1	Vibrio vulnificus	2	4	4	High-quality
+SAMN05302748_p2	1	Vibrio harveyi	1	Vibrio harveyi	1	4	2	High-quality
+SAMN39716334_p1	1	Vibrio harveyi	1	Vibrio harveyi	1	4	2	High-quality
+SAMN12648299_p2	1	Vibrio navarrensis	1	Vibrio navarrensis	1	10	7	High-quality
+SAMN30916808_p1	1	Vibrio vulnificus	0		1	1	1	High-quality
+SAMN53840710_p3	1	Vibrio harveyi	1	Vibrio harveyi	1	2	2	High-quality
+SAMN07338045_p2	1	Vibrio harveyi	1	Vibrio harveyi	2	2	2	Medium-quality
+SAMN33278197_p2	1	Vibrio harveyi	1	Vibrio harveyi	2	2	2	Medium-quality
+SAMN17384693_p2	1	Vibrio parahaemolyticus	0		3	2	1	Complete
+SAMN32406741_p1	1	Vibrio parahaemolyticus	0		3	1	1	Complete
+SAMN07337847_p1	1	Vibrio parahaemolyticus	0		1	1	1	High-quality
+SAMN18298710_p2	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	2	14	14	High-quality
+SAMN54210353_p3	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	2	14	14	High-quality
+SAMN35346012_p2	1	Vibrio metoecus	0		1	1	1	High-quality
+SAMN06066420_p2	1	Vibrio metoecus	0		3	1	1	Medium-quality
+SAMN07337992_p1	1	Vibrio metoecus	0		1	1	1	High-quality
+SAMN06158907_p1	1	Vibrio metoecus	0		1	1	1	High-quality
+SAMN40232154_p1	1	Vibrio alginolyticus	1	Vibrio alginolyticus	2	2	2	Medium-quality
+SAMN28767359_p1	1	Vibrio navarrensis	1	Vibrio navarrensis	4	5	3	High-quality
+SAMN04320555_p2	1	Vibrio alginolyticus	1	Vibrio alginolyticus	2	2	2	Medium-quality
+SAMN13023392_p2	1	Vibrio navarrensis	1	Vibrio navarrensis	1	8	4	High-quality
+SAMN30916803_p2	1	Vibrio navarrensis	1	Vibrio navarrensis	1	6	4	Medium-quality
+SAMN28767244_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	2	26	20	High-quality
+SAMN40717405_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	15	15	Medium-quality
+SAMN40566114_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	8	8	Complete
+SAMN28767349_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	8	8	High-quality
+SAMN10397789_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	5	7	4	Complete
+SAMN29790272_p3	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	2	2	Medium-quality
+SAMN40604357_p1	1	Vibrio vulnificus	1	Vibrio vulnificus	3	3	3	Complete
+SAMN41809272_p2	1	Vibrio vulnificus	1	Vibrio vulnificus	1	3	3	Medium-quality
+SAMN12404565_p3	1	Vibrio alginolyticus	1	Vibrio alginolyticus	1	2	2	Medium-quality
+SAMN15763361_p3	1	Vibrio cholerae	0		1	1	1	Medium-quality
+SAMN14968934_p1	1	Vibrio cholerae	0		1	1	1	Medium-quality
+SAMN14307063_p1	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMEA4530654_p1	1	Vibrio cholerae	0		3	1	1	High-quality
+SAMN31656038_p4	1	Vibrio cholerae	1	Vibrio cholerae	1	3	3	High-quality
+SAMN29395242_p3	1	Vibrio cholerae	0		3	1	1	High-quality
+SAMN28767235_p2	1	Vibrio cholerae	1	Vibrio cholerae	2	3	3	High-quality
+SAMN28672590_p1	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN24777697_p1	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN13023392_p3	1	Vibrio harveyi	1	Vibrio harveyi	2	4	2	High-quality
+SAMN24593218_p3	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN02741367_p3	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	464	24	9	Medium-quality
+SAMN24593215_p2	1	Vibrio cholerae	0		1	1	1	Complete
+SAMN24593214_p4	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN24593212_p4	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN44286666_p1	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN43405764_p1	1	Vibrio cholerae	0		3	1	1	High-quality
+SAMN28495037_p2	1	Vibrio cholerae	0		3	1	1	Medium-quality
+SAMN41905141_p1	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN41842413_p1	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN40584254_p1	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN40571795_p3	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN39105913_p3	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMD00046905_p2	1	Vibrio cholerae	0		4	1	1	High-quality
+SAMN13500476_p2	1	Vibrio cholerae	0		2	1	1	High-quality
+SAMN12648305_p2	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN10702681_p2	1	Vibrio cholerae	0		2	1	1	High-quality
+SAMN12648297_p3	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN12648294_p3	1	Vibrio cholerae	0		1	1	1	Medium-quality
+SAMN12648275_p2	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN12648261_p1	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN12648259_p2	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN12434698_p2	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN05935526_p1	1	Vibrio cholerae	0		5	1	1	High-quality
+SAMN04349756_p1	1	Vibrio cholerae	1	Vibrio cholerae	2	3	3	High-quality
+SAMN15763365_p1	1	Vibrio cholerae	0		1	1	1	Complete
+SAMN05935531_p1	1	Vibrio cholerae	0		4	1	1	Medium-quality
+SAMN09355280_p2	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN24593211_p2	1	Vibrio cholerae	0		1	1	1	Complete
+SAMN21355259_p1	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN20805065_p3	1	Vibrio cholerae	0		1	1	1	Medium-quality
+SAMN20805043_p3	1	Vibrio cholerae	0		1	1	1	Medium-quality
+SAMN20805030_p1	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN20804975_p3	1	Vibrio cholerae	0		1	1	1	Medium-quality
+SAMN18238040_p3	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMEA115018432_p3	1	Vibrio cholerae	0		10	1	1	High-quality
+SAMN02179882_p3	1	Vibrio cholerae	0		4	1	1	High-quality
+SAMN10334306_p2	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMEA3643325_p1	1	Vibrio cholerae	1	Vibrio cholerae	6	3	3	High-quality
+SAMN16072611_p1	1	Vibrio cholerae	1	Vibrio cholerae	1	2	2	High-quality
+SAMN12169088_p1	1	Vibrio cholerae	0		1	1	1	Complete
+SAMN12057875_p1	1	Vibrio cholerae	1	Vibrio cholerae	1	2	2	High-quality
+SAMN10963736_p4	1	Vibrio cholerae	1	Vibrio cholerae	1	2	2	Medium-quality
+SAMN09386766_p3	1	Vibrio vulnificus	0		1	2	1	Complete
+SAMD00019138_p1	1	Vibrio vulnificus	0		1	2	1	Medium-quality
+SAMN00265075_p1	1	Vibrio cholerae	0		5	1	1	Medium-quality
+SAMN49797553_p1	1	Vibrio cholerae	0		1	1	1	Medium-quality
+SAMN12648317_p3	1	Vibrio cholerae	1	Vibrio cholerae	7	4	4	Medium-quality
+SAMN42500393_p2	1	Vibrio cholerae	0		1	1	1	Medium-quality
+SAMN38736038_p2	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN36294848_p1	1	Vibrio cholerae	1	Vibrio cholerae	1	4	4	Medium-quality
+SAMN07338013_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	9	6	Medium-quality
+SAMN29790235_p3	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	2	5	5	Medium-quality
+SAMN07337898_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	5	5	Medium-quality
+SAMN03945150_p3	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	5	5	Medium-quality
+SAMN14214611_p3	1	Vibrio cholerae	1	Vibrio cholerae	18	3	3	Medium-quality
+SAMN13878423_p2	1	Vibrio cholerae	1	Vibrio cholerae	3	2	2	High-quality
+SAMN08982477_p2	1	Vibrio cholerae	1	Vibrio cholerae	4	6	6	Medium-quality
+SAMN38476534_p1	1	Vibrio cholerae	1	Vibrio cholerae	3	2	2	High-quality
+SAMN48586870_p2	1	Vibrio metoecus	1	Vibrio metoecus	1	2	2	High-quality
+SAMN15206675_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	17	17	Medium-quality
+SAMN39200978_p1	1	Vibrio cholerae	0		1	1	1	Medium-quality
+SAMN35555508_p2	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN35555507_p1	1	Vibrio cholerae	0		2	1	1	High-quality
+SAMN32407627_p1	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN15763356_p1	1	Vibrio fluvialis	1	Vibrio fluvialis	1	60	24	Complete
+SAMN53317748_p2	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN52852906_p3	1	Vibrio cholerae	0		3	1	1	Medium-quality
+SAMN50800684_p3	1	Vibrio cholerae	0		1	1	1	Medium-quality
+SAMN48586875_p2	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN48586872_p1	1	Vibrio cholerae	0		2	1	1	High-quality
+SAMN48586871_p3	1	Vibrio cholerae	0		1	1	1	Medium-quality
+SAMN48586871_p1	1	Vibrio cholerae	0		1	1	1	Medium-quality
+SAMD00323053_p2	1	Vibrio cholerae	1	Vibrio cholerae	33	3	3	Medium-quality
+SAMN45842236_p1	1	Vibrio cholerae	0		1	1	1	Medium-quality
+SAMN48586876_p4	1	Vibrio cholerae	0		1	1	1	High-quality
+SAMN33396490_p1	1	Vibrio cholerae	0		1	1	1	Medium-quality
+SAMN13404287_p2	1	Vibrio cholerae	0		1	1	1	Medium-quality
+SAMN12057884_p1	1	Vibrio cholerae	0		1	1	1	Medium-quality
+SAMN02435869_p2	1	Vibrio cholerae	0		1	1	1	Medium-quality
+SAMN02435867_p4	1	Vibrio cholerae	1	Vibrio cholerae	1	4	4	Medium-quality
+SAMEA120785982_p1	1	Vibrio cholerae	0		1	1	1	Medium-quality
+SAMN03996257_p1	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	3	3	Medium-quality
+SAMN44286414_p2	1	Vibrio parahaemolyticus	1	Vibrio parahaemolyticus	1	2	2	High-quality
+SAMN12057805_p2	1	Vibrio cholerae	1	Vibrio cholerae	13	3	3	Medium-quality
+SAMN48586870_p1	1	Vibrio cholerae	0		1	1	1	High-quality
